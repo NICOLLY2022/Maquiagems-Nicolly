@@ -1,0 +1,59 @@
+body {
+    background: #FFCFDB;
+}
+
+#Banner{
+    width: 101%;
+    height: 360px;
+    margin-left: -3px;
+}
+
+#paragrafo3{
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+#paragrafo1{
+    margin-top: -23px;
+    font-size: 19px;
+}
+
+#precos{
+    font-size: 30px;
+    margin-top: 1px;
+}
+
+#baixo{
+    font-size: 30px;
+    margin-top: 1px;
+}
+
+#Batao{
+    width: 50%;
+    height: 210px;
+    border: 10px solid #DB83A8;
+}
+
+#Produtos1{
+    width: 30%;
+    height: 450px;
+    margin-left: 20px;
+    border: 5px solid black;
+}
+
+#Produtos2{
+    width: 30%;
+    height: 450px;
+    border: 5px solid black;
+}
+
+#Produtos3{
+    width: 35%;
+    height: 450px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 35px;
+}
+
